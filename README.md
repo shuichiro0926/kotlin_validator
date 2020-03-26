@@ -1,1 +1,3 @@
-# kotlin_validator
+## Kotlin Validation クラス
+
+**Spring等のKotlinプロジェクトで使用するValidatorクラス。**
